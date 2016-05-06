@@ -16,7 +16,7 @@
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [Building Front-End Web Apps with Plain JavaScript, without Using Frameworks](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book)
 - [Javascript Allonge](https://leanpub.com/javascriptallongesix/read)
-- [The JavaScript Tutorial](http://javascript.info/)
+- [The JavaScript Tutorial](http://javascript.info/) 
 ### ES6
 - [Setting up ES6](https://leanpub.com/setting-up-es6/read)
 - [Exploring ES6](http://exploringjs.com/es6/)
