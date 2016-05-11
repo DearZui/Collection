@@ -4,6 +4,10 @@
 - [前端收藏夹](http://collect.w3ctrain.com/)
 
 ***
+## HTML
+- [HTML Weekly](http://html5weekly.com/)
+
+***
 ## JavaScript
 - [IIFE](https://github.com/xitu/gold-miner/blob/master/TODO/disassembling-javascripts-iife-syntax.md)
 
