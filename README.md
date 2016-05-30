@@ -2,6 +2,8 @@
 ## 集合
 - [掘金](http://gold.xitu.io/#/)
 - [前端收藏夹](http://collect.w3ctrain.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [SitePoint](https://www.sitepoint.com/)
 
 ***
 ## HTML
