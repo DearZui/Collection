@@ -10,3 +10,7 @@
 ## 提示工具 ##
 1. [Ballon.css](http://kazzkiq.github.io/balloon.css/)纯CSS实现的工具提示
 <img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/Ballon.gif" width="100">
+
+## 工具 ##
+1. [Leaflet](http://leafletjs.com/)简单美观的地图库
+<img src="http://leafletjs.com/docs/images/logo.png" width="300">
