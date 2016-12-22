@@ -8,11 +8,15 @@
 ***
 ## HTML
 - [HTML Weekly](http://html5weekly.com/)
+- [HEAD: Everything To Go In Your HTML's 'head'](https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email)
 
 ***
 ## JavaScript
 - [IIFE](https://github.com/xitu/gold-miner/blob/master/TODO/disassembling-javascripts-iife-syntax.md)
 
+***
+## CSS
+- [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
 ***
 ## Books
 ### JavaScript
@@ -41,3 +45,7 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
 - [Dive Into HTML5](http://diveintohtml5.info/index.html)
+
+***
+## Browser
+- [Twelve Fancy Chrome DevTools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d)
