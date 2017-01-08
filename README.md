@@ -56,3 +56,9 @@
 ***
 ## Keep it up
 - [What to learn in 2017 if you’re a frontend developer](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.bvm2zh7pa)
+
+***
+## Libs
+### JavaScript
+#### Flow
+- [Authoring and publishing JavaScript modules with Flow](http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/)
