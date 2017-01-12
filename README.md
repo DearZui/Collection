@@ -62,3 +62,5 @@
 ### JavaScript
 #### Flow
 - [Authoring and publishing JavaScript modules with Flow](http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/)
+#### Modal
+- [Modaal](http://humaan.com/modaal/)
