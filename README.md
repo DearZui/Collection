@@ -66,6 +66,8 @@
 - [Modaal](http://humaan.com/modaal/)
 #### JSON
 - [Jam API](https://www.jamapi.xyz/)
+#### Formatter
+- [Prettier](https://github.com/jlongster/prettier)
 
 ###HTML
 #### Email
