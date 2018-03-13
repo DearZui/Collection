@@ -14,7 +14,8 @@
 ## 提示工具 ##
 1. [Ballon.css](http://kazzkiq.github.io/balloon.css/)纯CSS实现的工具提示
 
-<img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/Ballon.gif" width="100">
+<img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/Ballon.gif" width="200">
+
 2. [sweetalert2](https://github.com/sweetalert2/sweetalert2)响应式、可定制的提示框
 
 <img src="https://sweetalert2.github.io/images/swal2-logo.png">
