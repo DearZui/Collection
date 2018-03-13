@@ -6,7 +6,7 @@
 
 ## 图片 ##
 ### 轮播 ###
-1. [lightgallery.js](lightgallery.js) - 无依赖、响应式、功能齐全的轮播组件，包括YouTube和HTML5视频
+1. [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/) - 无依赖、响应式、功能齐全的轮播组件，包括YouTube和HTML5视频
 
 <img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/lightgallery.png" width="590">
 
@@ -15,7 +15,7 @@
 1. [Ballon.css](http://kazzkiq.github.io/balloon.css/)纯CSS实现的工具提示
 
 <img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/Ballon.gif" width="100">
-2. [sweetalert2](https://github.com/sweetalert2/sweetalert2) 
+2. [sweetalert2](https://github.com/sweetalert2/sweetalert2)响应式、可定制的提示框
 
 <img src="https://sweetalert2.github.io/images/swal2-logo.png">
 
