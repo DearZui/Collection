@@ -15,6 +15,9 @@
 1. [Ballon.css](http://kazzkiq.github.io/balloon.css/)纯CSS实现的工具提示
 
 <img src="http://obydp3y41.bkt.clouddn.com/Github/Collection/imgs/Ballon.gif" width="100">
+2. [sweetalert2](https://github.com/sweetalert2/sweetalert2)
+
+<img src="https://sweetalert2.github.io/images/swal2-logo.png">
 
 ## 工具 ##
 1. [Leaflet](http://leafletjs.com/)简单美观的地图库
