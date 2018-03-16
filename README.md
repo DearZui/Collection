@@ -4,6 +4,7 @@
 - [前端收藏夹](http://collect.w3ctrain.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [SitePoint](https://www.sitepoint.com/)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 ***
 ## HTML
